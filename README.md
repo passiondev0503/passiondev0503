@@ -9,7 +9,7 @@
 ✔️ Databases: DynamoDB, MongoDB, PostgreSQL, MySQL, Redis \
 ✔️ AWS: Amplify, Cognito, Lambda, API Gateway, EC2, S3 bucket, ECR, CloudFront, CodeBuild, CodeDeploy, CodePipeline, DynamoDB, RDS… \
 ✔️ Google cloud services, Firebase, Supabase \
-✔️ CI/CD, Terraform, Serverless framework \
+✔️ CI/CD, Terraform, Serverless framework
 
 ## Contact me - passiondev0503 ✨
 
