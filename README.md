@@ -5,11 +5,11 @@
 
 ✔️ Program language: JavaScript, Typescript, Python, Dart, Java, Swift \
 ✔️ Cloud Service: AWS, Google Cloud Platform, Azure \
-✔️ Headless CMS: Contentful, Prismic, Sanity.io, NetlfyCMS, GraphCMS, FireCMS, StatamicCMS, GravCMS
-✔️ Databases: DynamoDB, MongoDB, PostgreSQL, MySQL, Redis
-✔️ AWS: Amplify, Cognito, Lambda, API Gateway, EC2, S3 bucket, ECR, CloudFront, CodeBuild, CodeDeploy, CodePipeline, DynamoDB, RDS…
-✔️ Google cloud services, Firebase, Supabase
-✔️ CI/CD, Terraform, Serverless framework
+✔️ Headless CMS: Contentful, Prismic, Sanity.io, NetlfyCMS, GraphCMS, FireCMS, StatamicCMS, GravCMS \
+✔️ Databases: DynamoDB, MongoDB, PostgreSQL, MySQL, Redis \
+✔️ AWS: Amplify, Cognito, Lambda, API Gateway, EC2, S3 bucket, ECR, CloudFront, CodeBuild, CodeDeploy, CodePipeline, DynamoDB, RDS… \
+✔️ Google cloud services, Firebase, Supabase \
+✔️ CI/CD, Terraform, Serverless framework \
 
 ## Contact me - passiondev0503 ✨
 
