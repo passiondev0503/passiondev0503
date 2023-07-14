@@ -1,1 +1,16 @@
-![github-contribution-grid-snake](https://user-images.githubusercontent.com/89845641/218791674-c52db856-24d2-429f-8867-170c365730d1.svg)
+<h1 align="center"> Passionate 🔥 Developer </h1> 
+<h3 align="center"> Senior Software Web&Mobile Engineer </h3>
+
+## My Skills 📚
+
+✔️ Program language: JavaScript, Typescript, Python, Dart, Java, Swift \
+✔️ Cloud Service: AWS, Google Cloud Platform, Azure \
+✔️ Headless CMS: Contentful, Prismic, Sanity.io, NetlfyCMS, GraphCMS, FireCMS, StatamicCMS, GravCMS
+✔️ Databases: DynamoDB, MongoDB, PostgreSQL, MySQL, Redis
+✔️ AWS: Amplify, Cognito, Lambda, API Gateway, EC2, S3 bucket, ECR, CloudFront, CodeBuild, CodeDeploy, CodePipeline, DynamoDB, RDS…
+✔️ Google cloud services, Firebase, Supabase
+✔️ CI/CD, Terraform, Serverless framework
+
+## Contact me - passiondev0503 ✨
+
+    passiondev0503@gmail.com
