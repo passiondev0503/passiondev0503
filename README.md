@@ -4,6 +4,7 @@
 ## My Skills 📚
 
 ✔️ Program language: JavaScript, Typescript, Python, Dart, Java, Swift \
+✔️ Frontend: React, Next.js, Svelte, Astro, Tailwind CSS \
 ✔️ Cloud Service: AWS, Google Cloud Platform, Azure \
 ✔️ Headless CMS: Contentful, Prismic, Sanity.io, NetlfyCMS, GraphCMS, FireCMS, StatamicCMS, GravCMS \
 ✔️ Databases: DynamoDB, MongoDB, PostgreSQL, MySQL, Redis \
