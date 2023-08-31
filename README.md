@@ -1,5 +1,5 @@
 <h1 align="center"> Passionate 🔥 Developer </h1> 
-<h3 align="center"> Senior Software React/Next.js Engineer </h3>
+<h3 align="center"> Senior Software Web&Mobile Engineer </h3>
 
 ## My Skills 📚
 
