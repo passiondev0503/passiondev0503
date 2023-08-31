@@ -1,4 +1,4 @@
-<h1 align="center"> Passionate 🔥 Developer </h1> 
+<h2 align="center"> Passionate 🔥 Developer </h2> 
 <h3 align="center"> Senior Software Web&Mobile Engineer </h3>
 
 ## My Skills 📚
@@ -12,6 +12,6 @@
 ✔️ Google cloud services, Firebase, Supabase \
 ✔️ CI/CD, Terraform, Serverless framework
 
-## Contact me - passiondev0503 ✨
+## Contact Me 🤝
 
     passiondev0503@gmail.com
