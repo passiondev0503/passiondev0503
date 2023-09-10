@@ -12,6 +12,8 @@
 ✔️ Google cloud services, Firebase, Supabase \
 ✔️ CI/CD, Terraform, Serverless framework
 
-## Contact Me <a href="mailto:cristiansirbu4@gmail.com"><img width="31px" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg"/></a>
+## Let's connect <a href="mailto:cristiansirbu4@gmail.com"><img width="31px" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg"/></a>
 
     passiondev0503@gmail.com
+
+Feel free to explore my repositories to see some of my projects. Don't hesitate to reach out if you have any questions or want to collaborate on something cool. Let's create beautiful digital experiences together! 🚀
