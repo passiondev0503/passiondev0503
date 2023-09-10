@@ -12,6 +12,6 @@
 ✔️ Google cloud services, Firebase, Supabase \
 ✔️ CI/CD, Terraform, Serverless framework
 
-## Contact Me <a href="mailto:cristiansirbu4@gmail.com"><img width="62px" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg"/></a>
+## Contact Me <a href="mailto:cristiansirbu4@gmail.com"><img width="31px" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg"/></a>
 
     passiondev0503@gmail.com
