@@ -1,5 +1,4 @@
-<h2 align="center"> Passionate 🔥 Developer </h2> 
-<h3 align="center"> Senior Software Web&Mobile Engineer </h3>
+<h5 align="center"> Passionate Full-Stack Software Developer, looking to "put a ding in the universe"! </h5>
 
 ## My Skills 📚
 
