@@ -1,9 +1,10 @@
-<h4 align="center"> Passionate FrontEnd Developer, looking to "put a ding in the universe"! </h4>
+<h4 align="center"> Passionate Software Developer, looking to "put a ding in the universe"! </h4>
 
 ## My Skills 📚
 
 ✔️ Program language: JavaScript, Typescript, Python \
 ✔️ Frontend: React, Next.js, Svelte, Astro, Tailwind CSS \
+✔️ Backend: Node.js, Golang \
 ✔️ Cloud Service: AWS, Google Cloud Platform, Azure \
 ✔️ Headless CMS: Contentful, Prismic, Sanity.io, NetlfyCMS, GraphCMS, FireCMS, StatamicCMS, GravCMS \
 ✔️ Databases: DynamoDB, MongoDB, PostgreSQL, MySQL, Redis \
