@@ -1,4 +1,4 @@
-![image](https://github.com/passiondev0503/passiondev0503/assets/122473815/481bac53-e294-4dc7-8e60-e9e5c6455364)<h4 align="center"> Passionate Software Developer, looking to "put a ding in the universe"! </h4>
+<h4 align="center"> Passionate Software Developer, looking to "put a ding in the universe"! </h4>
 
 ## My Skills 📚
 
