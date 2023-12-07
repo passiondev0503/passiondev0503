@@ -1,19 +1,6 @@
 <h4 align="center"> Passionate Software Developer, looking to "put a ding in the universe"! </h4>
 
-## My Skills 📚
-
-✔️ Program language: JavaScript, Typescript, Python \
-✔️ Frontend: React, Next.js, Svelte, Astro, Tailwind CSS \
-✔️ Backend: Node.js, Golang \
-✔️ Cloud Service: AWS, Google Cloud Platform, Azure \
-✔️ Headless CMS: Contentful, Prismic, Sanity.io, NetlfyCMS, GraphCMS, FireCMS, StatamicCMS, GravCMS \
-✔️ Databases: DynamoDB, MongoDB, PostgreSQL, MySQL, Redis \
-✔️ AWS: Amplify, Cognito, Lambda, API Gateway, EC2, S3 bucket, ECR, CloudFront, CodeBuild, CodeDeploy, CodePipeline, DynamoDB, RDS… \
-✔️ Google cloud services, Firebase, Supabase \
-✔️ Blockchain: Solana, NFT smart contract, Solidity, Etherium, etc \
-✔️ CI/CD, Terraform, Serverless framework
-
-## Let's connect <a href="mailto:passiondev0503@gmail.com"><img width="30px" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg"/></a>
+## Contact Me <a href="mailto:passiondev0503@gmail.com"><img width="30px" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg"/></a>
 
     passiondev0503@gmail.com
 
